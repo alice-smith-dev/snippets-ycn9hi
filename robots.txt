@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alice-smith-dev.github.io/snippets-ycn9hi/sitemap.xml
